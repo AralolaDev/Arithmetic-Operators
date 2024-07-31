@@ -1,0 +1,40 @@
+print('My name is Aralola')
+print("My name is Aralola")
+print ( "What is my name")   
+
+#Arithmetic Operators
+
+#Addition
+print('The addition of these is', 2 + 3 + 9)
+
+#Subtraction
+print('The subtraction of these is', 99 - 73 )
+
+#Multiplication
+print('The multiplication of these is', 5 * 25)
+
+#Division
+print('The division of these is', 100 / 2 ) 
+
+#Exponent
+print('The value of 5**3 is', 5**3 )
+
+#Modulus
+print('The modulus of 100 and 7 is', 100 % 7)
+
+#Floor Division
+print('The floor division 100 and 7 is', 100// 7)
+
+print('The floor division 100 and 2 is',100// 2 )
+
+
+#Assignment
+print('The addition of these is ', 2 + 5)
+
+print('The subtraction of these is', 17 - 3)
+
+print('The value of these is 4 ** 3 is',4 ** 3 )
+
+print('The value of this operation is',7 * 14/ 64 )
+
+print('The value of this operation is',7 * 14// 64 )
